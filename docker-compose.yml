@@ -1,0 +1,14 @@
+services:
+  ollama:
+    image: ollama/ollama
+    volumes:
+      - ./ollama-models:/root/.ollama
+    ports:
+      - 11434:11434
+
+  web:
+    image: nginx:1.27.3-alpine
+    volumes:
+    - ./web:/usr/share/nginx/html
+    ports:
+    - "6001:80"

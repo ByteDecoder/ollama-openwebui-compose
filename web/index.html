@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My AI</title>
+  <script src="showdown.min.js"></script>
+  <script src="ollama.js"></script>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="paper.min.css" />
+</head>
+
+<body>
+
+  <section class="row paper" style="max-width: 800px;">
+    <div class="sm-12 md-12 col">
+      <h1>🤖 Local Deepseek-R1</h1>
+    </div>
+
+    <div class="sm-12 md-12 col">
+      <div class="paper container">
+        <textarea name="" id="question"></textarea>
+        <button onclick="run()">Ask!</button>
+      </div>
+    </div>
+
+    <div class="sm-12 md-12 col">
+      <div id="answer">
+      </div>
+    </div>
+
+  </section>
+
+</body>
+
+</html>
