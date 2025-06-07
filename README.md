@@ -1,5 +1,7 @@
 # Deepseek-R1 Local Deployment with Docker & Web UI
 
+![Deepseek-R1 Web UI Screenshot](article1.jpg)
+
 This project provides a ready-to-use Docker Compose setup for running the DeepSeek-R1 language model locally, along with a simple web-based user interface.
 
 ## Features
@@ -65,5 +67,8 @@ Web UI is running on <http://localhost:6001>
 
 - [Ollama Documentation](https://github.com/jmorganca/ollama)
 - [DeepSeek-R1 Model Card](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+
+<https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm>
+<https://platzi.com/blog/deepseek-r1-instalar-local/>
 
 ---

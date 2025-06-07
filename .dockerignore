@@ -1,0 +1,18 @@
+# Ignore node_modules and Python cache
+node_modules
+__pycache__/
+*.pyc
+
+# Ignore local model data (if not needed in build context)
+ollama-models/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
