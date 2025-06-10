@@ -1,4 +1,4 @@
-# Deepseek-R1 Local Deployment with Docker & Web UI
+# Deepseek-R1 Local Deployment with Docker & Open WebUI
 
 ![Deepseek-R1 Web UI Screenshot](article1.jpg)
 
