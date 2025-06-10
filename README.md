@@ -30,9 +30,10 @@ This project provides a ready-to-use Docker Compose setup for running the DeepSe
 
 3. **Access the Web UI**
 
-   <http://localhost:6001> or <http://localhost:6002>
+   - Custom UI <http://localhost:6001>
+   - Open WebUI <http://localhost:6002>
 
-   Open [web/index.html](web/index.html) in your browser to interact with the model.
+   Open <http://localhost:6002> in your browser to interact with the model.
 
 4. Add new models
 
@@ -76,9 +77,8 @@ This project provides a ready-to-use Docker Compose setup for running the DeepSe
 
 - [Ollama Documentation](https://github.com/jmorganca/ollama)
 - [DeepSeek-R1 Model Card](https://huggingface.co/deepseek-ai/DeepSeek-R1)
-
-<https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm>
-<https://platzi.com/blog/deepseek-r1-instalar-local/>
-<https://www.composerize.com/>
+- <https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm>
+- <https://platzi.com/blog/deepseek-r1-instalar-local/>
+- <https://www.composerize.com/>
 
 ---
