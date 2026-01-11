@@ -46,6 +46,8 @@ This project provides a ready-to-use Docker Compose setup for running the DeepSe
 
    ```bash
    ollama pull  phi3:mini
+   ollama pull qwen3:1.7b
+   ollama pull mistral
    ```
 
 ## Project Structure
