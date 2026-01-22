@@ -1,4 +1,4 @@
-# Ollama + Open WebUI - Docker Compose Stack
+# LLM + Ollama + Open WebUI - Docker Compose Stack
 
 ![Open WebUI Screenshot](article1.jpg)
 
